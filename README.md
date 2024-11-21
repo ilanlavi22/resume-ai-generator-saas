@@ -1,6 +1,6 @@
 # AI Resume Generator
 
-#### App Full-Stack SaaS
+#### Full-Stack SaaS
 
 ##### Stack:
 
